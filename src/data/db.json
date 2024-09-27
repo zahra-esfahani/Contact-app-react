@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "zahra",
+      "lastName": "Esfahani",
+      "phone": "09103228533",
+      "email": "zahra.gmail.com",
+      "isFavorite":false,
+      "isDelete":false
+    },
+    {
+      "id": 2,
+      "name": "sanaz",
+      "lastName": "Amini",
+      "phone": "09325652020",
+      "email": "sara.gmail.com",
+      "isFavorite":false,
+      "isDelete":false
+    },
+    {
+      "id": 3,
+      "name": "Mahnaz",
+      "lastName": "Miri",
+      "phone": "09322853365",
+      "email": "sara.gmail.com",
+      "isFavorite":false,
+      "isDelete":false
+    }
+  ]
+}

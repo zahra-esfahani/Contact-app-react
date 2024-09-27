@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  border: 2px dashed gray;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+.table {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.icon span {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.Color {
+  color: red;
+}
